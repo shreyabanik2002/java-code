@@ -1,0 +1,12 @@
+#include<stdio.h>
+void insertionsort(int *a,int n)
+{
+    
+}
+int main()
+{
+  int a[]={12,54,65,7,23,9};
+  int n=6;
+  insertionsort(a,n)
+  return 0;
+}

@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+    int a[10],n,i,item;
+    printf("enter how many element :");
+    scanf("%d",&n);
+    printf("enter array");
+     
+    
+    
